@@ -5,6 +5,7 @@
 </div>
 
 ## Table of Contents
+[![Check Live Site](https://img.shields.io/badge/Live_Site-Click_Here-brightgreen?style=for-the-badge)](https://huggingface.co/spaces/vaibhav2154/Movie-recommendor-system)
 
 - [📖 Introduction](#-introduction)
 - [✨ Features](#-features)
@@ -54,7 +55,6 @@ The Movie Recommender System is an AI-powered application that suggests movies b
 ## 🚀 Usage
   User Input: Enter a movie name, and the app will provide a list of similar movies based on the ML model’s recommendations.<br>
   Visual Output: Streamlit interface displays the recommended movies in a user-friendly format.
-
 ## 📞 Contact
 
 For any questions or suggestions, please contact:
