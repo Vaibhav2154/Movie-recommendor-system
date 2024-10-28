@@ -29,7 +29,6 @@ The Movie Recommender System is an AI-powered application that suggests movies b
 - **Machine Learning**: Python, Pandas, NumPy
 - **Data Processing**: Scikit-Learn
 - **Web Framework**: Streamlit
-- **Deployment**: Streamlit Cloud or similar hosting platform
 
 ## ⚙️ Installation
 
