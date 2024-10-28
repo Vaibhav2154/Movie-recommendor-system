@@ -53,13 +53,12 @@ The Movie Recommender System is an AI-powered application that suggests movies b
 
 
 ## 🚀 Usage
-
-    User Input: Enter a movie name, and the app will provide a list of similar movies based on the ML model’s recommendations.
-    Visual Output: Streamlit interface displays the recommended movies in a user-friendly format.
+  User Input: Enter a movie name, and the app will provide a list of similar movies based on the ML model’s recommendations.<br>
+  Visual Output: Streamlit interface displays the recommended movies in a user-friendly format.
 
 ## 📞 Contact
 
 For any questions or suggestions, please contact:
 
-    📧 Email: theartsytechnology@gmail.com
-    🐙 GitHub: Vaibhav2154
+  📧 Email: vaibhavvaibhu2005@gmail.com<br>
+  🐙 GitHub: Vaibhav2154
