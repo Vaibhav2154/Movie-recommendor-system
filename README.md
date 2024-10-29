@@ -14,7 +14,6 @@
 - [🚀 Usage](#-usage)
 - [📞 Contact](#-contact)
 
-
 ## 📖 Introduction
 
 The Movie Recommender System is an AI-powered application that suggests movies based on a user's input, leveraging collaborative filtering to analyze similarities between movie ratings and provide tailored recommendations.
